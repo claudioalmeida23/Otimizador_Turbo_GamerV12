@@ -1,6 +1,6 @@
-# 🚀 OTIMIZADOR TURBO GAMER v11
+# 🚀 OTIMIZADOR TURBO GAMER v12
 
-O **OTIMIZADOR TURBO GAMER v11** é uma ferramenta de automação em Batch desenvolvida para otimizar o Windows, focando na estabilidade do sistema e na redução de latência para jogos.
+O **OTIMIZADOR TURBO GAMER v12** é uma ferramenta de automação em Batch desenvolvida para otimizar o Windows, focando na estabilidade do sistema e na redução de latência para jogos.
 
 > **Desenvolvido por:** Claudio Almeida
 
