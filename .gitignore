@@ -1,0 +1,21 @@
+# ==============================================================================
+# OTIMIZADOR TURBO GAMER - .gitignore
+# ==============================================================================
+
+# Arquivos temporários do Windows e Logs de Execução
+*.log
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# Pastas de IDEs e Editores de Código (Visual Studio Code, Notepad++, etc.)
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*.swo
+
+# Arquivos de sistema operacional
+.DS_Store
